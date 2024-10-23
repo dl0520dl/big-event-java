@@ -1,5 +1,5 @@
 # big-event-java
-bigEvent后端代码
+big-event后端代码
 
 ## 启动前
 ### 1.在application.yml中，修改为自己的mysql、redis信息.
